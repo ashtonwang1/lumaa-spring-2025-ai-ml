@@ -65,8 +65,7 @@ This repository contains a simple movie recommendation system that uses TF-IDF v
    pip install -r requirements.txt
    ```
 
-4. **(Optional) NLTK Downloads:**  
-   If you’re using advanced text preprocessing with NLTK (lemmatization, stopwords, etc.), you may need to download NLTK data:
+4. ** NLTK Downloads:**  
    ```python
    import nltk
    nltk.download('punkt')
