@@ -125,7 +125,7 @@ A short screen-capture demo showcasing:
 
 ## Salary Expectation
 
-**Monthly Salary Expectation:** $XX,XXX per month.
+**Monthly Salary Expectation:** $1600-$2400 per month.
 
 ---
 
