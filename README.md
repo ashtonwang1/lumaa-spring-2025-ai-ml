@@ -1,5 +1,5 @@
 **Dataset**
-- We use `movies.csv`, containing columns like `title`, `overview`, `genres`, etc.
+- We use `movie.csv`, containing columns like `title`, `overview`, `genres`, etc.
 
 **Setup**
 - Python >= 3.7
