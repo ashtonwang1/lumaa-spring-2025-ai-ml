@@ -47,8 +47,8 @@ This repository contains a simple movie recommendation system that uses TF-IDF v
 
 1. **Clone or Download** this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/ashtonwang1/lumaa-spring-2025-ai-ml.git
+   cd lumaa-spring-2025-ai-ml
    ```
 
 2. **Create a Virtual Environment (optional but recommended):**
@@ -119,7 +119,7 @@ A short screen-capture demo showcasing:
 - How you run `recommend.ipynb`
 - A sample query and its recommendation output
 
-**Link:** Paste your video link here or in `demo.md`
+**Link:** https://drive.google.com/file/d/1vqXc9HlW_A2Zk0kxwo2Ggpj9lDmS13dB/view?usp=sharing
 
 ---
 
@@ -131,12 +131,5 @@ A short screen-capture demo showcasing:
 
 ## License
 
-Distributed under the MIT License (or whichever license you prefer).
+Distributed under the MIT License.
 
----
-
-### Notes
-
-- **Customize**: If you have a Python script (e.g., `recommend.py`) instead of a Notebook, adjust the instructions in your README accordingly (e.g., how to run from the command line: `python recommend.py "some user description"`).  
-- **License**: If needed, add a separate `LICENSE` file or choose a different open-source license.  
-- **Versioning**: If you want stricter reproducibility, pin exact versions in `requirements.txt`.
