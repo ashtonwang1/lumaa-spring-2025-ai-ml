@@ -28,7 +28,7 @@ This document provides a demonstration of how to install dependencies, run the r
 
 ## Demo Video Link
 
-[Watch the Demo Video](#) *(Replace with actual video link when available)*
+[Watch the Demo Video](#) *https://drive.google.com/file/d/1vqXc9HlW_A2Zk0kxwo2Ggpj9lDmS13dB/view?usp=sharing*
 
 ---
 
