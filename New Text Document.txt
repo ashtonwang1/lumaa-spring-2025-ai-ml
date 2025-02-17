@@ -1,0 +1,8 @@
+# Basic libraries for data handling, analysis, and NLP
+pandas
+numpy
+scikit-learn
+nltk
+
+# Jupyter Notebook
+jupyter
